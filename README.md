@@ -24,5 +24,7 @@ Every 20secs, all these steps happens:
 - XORed-PE will get unxored
 - UnXOR-ed PE will be loaded in memory then injected to `C:\\Windows\\system32\\calc.exe` (you can change the host in `Program.cs:89`)
 
+All of these steps are making your PE polymorphic since self md5-sum is always different.
+
 ## PoC
 <img src="https://image.prntscr.com/image/_3brzZbHTHGYjt1ubtly0w.png">
