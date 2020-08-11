@@ -1,0 +1,9 @@
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\bin\Debug\pePolymorpherBuilder.exe.config
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\bin\Debug\pePolymorpherBuilder.exe
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\bin\Debug\pePolymorpherBuilder.pdb
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\obj\Debug\pePolymorpherBuilder.csprojAssemblyReference.cache
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\obj\Debug\pePolymorpherBuilder.Properties.Resources.resources
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\obj\Debug\pePolymorpherBuilder.csproj.GenerateResource.cache
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\obj\Debug\pePolymorpherBuilder.csproj.CoreCompileInputs.cache
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\obj\Debug\pePolymorpherBuilder.exe
+C:\Users\coldboot\source\repos\pePolymorpherBuilder\pePolymorpherBuilder\obj\Debug\pePolymorpherBuilder.pdb
